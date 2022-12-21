@@ -1,3 +1,10 @@
-111
-222
-333
+{
+	"person":{
+		"name": "Irina",
+		"first name": "Kazennaya",
+		"age": "38",
+		"number of pets": "1",
+		"future desired salary": "40000.00 RU"
+	}
+}
+
